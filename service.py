@@ -16,8 +16,8 @@ to celebrate what is being hailed as 'The Leap of the Century."
 
 
 @bentoml.service(
-    resources={"cpu": "2"},
-    traffic={"timeout": 10},
+    resources={"cpu": "32"},
+    traffic={"timeout": 1000},
 )
 class Summarization:
     def __init__(self) -> None:
