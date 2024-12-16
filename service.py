@@ -4,6 +4,7 @@ import bentoml
 with bentoml.importing():
     from transformers import pipeline
 
+
 EXAMPLE_INPUT = "Breaking News: In an astonishing turn of events, the small \
 town of Willow Creek has been taken by storm as local resident Jerry Thompson's cat, \
 Whiskers, performed what witnesses are calling a 'miraculous and gravity-defying leap.' \
@@ -15,8 +16,8 @@ to celebrate what is being hailed as 'The Leap of the Century."
 
 
 @bentoml.service(
-    resources={"cpu": "32"},
-    traffic={"timeout": 100},
+    resources={"cpu": "2"},
+    traffic={"timeout": 10},
 )
 class Summarization:
     def __init__(self) -> None:
