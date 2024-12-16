@@ -1,4 +1,4 @@
-service: "service:Summarization"
+service: "service:Summarization2"
 labels:
   owner: bentoml-team
   project: gallery
