@@ -22,7 +22,7 @@ to celebrate what is being hailed as 'The Leap of the Century."
 class Summarization:
     def __init__(self) -> None:
         # Load model into pipeline
-        self.pipeline = pipeline('summarization2')
+        self.pipeline = pipeline('summarization')
     
     @bentoml.api
     def summarize(self, text: str = EXAMPLE_INPUT) -> str:
