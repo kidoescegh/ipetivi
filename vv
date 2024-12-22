@@ -1,5 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="##########   Germany   ##########" tvg-logo="http://tugapt.com/picons/germany.png" group-title="Germany",##########   Germany   ##########
-https://livecloud.pstatic.net/sports/lip2_kr/anmssgpu0001/pslgougru1imkb7biwkcmgp9h0ymszppat/hdntl=exp=1734797529~acl=*%2Fpslgougru1imkb7biwkcmgp9h0ymszppat%2F*~data=hdntl~hmac=e991cb7a4a2cdfec5b645ade4aa02bed363b680324f16caa1f4314fd990311e5/chunklist_720.stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Big Brother 24/7 FHD DE" tvg-logo="" group-title="Germany",Big Brother 24/7 FHD DE
-https://livecloud.pstatic.net/sports/lip2_kr/anmssgpu0001/pslgougru1imkb7biwkcmgp9h0ymszppat/hdntl=exp=1734797529~acl=*%2Fpslgougru1imkb7biwkcmgp9h0ymszppat%2F*~data=hdntl~hmac=e991cb7a4a2cdfec5b645ade4aa02bed363b680324f16caa1f4314fd990311e5/chunklist_480.stream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="##########   VOLLEY FHD   ##########" tvg-logo="http://tugapt.com/picons/germany.png" group-title="Germany",##########   VOLLEY FHD   ##########
+https://livecloud.pstatic.net/sports/lip2_kr/anmssgpu0002/cs5enc25mqjqeprf7zcztnm9hvuldi9pj2/hdntl=exp=1734883436~acl=*%2Fcs5enc25mqjqeprf7zcztnm9hvuldi9pj2%2F*~data=hdntl~hmac=f4700ce3a745b3d44339fe80836b497018b19396883e89dd97b071cdec0abf64/chunklist_720.stream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="VOLLEY HD" tvg-logo="" group-title="Germany",VOLLEY HD
+https://livecloud.pstatic.net/sports/lip2_kr/anmssgpu0002/cs5enc25mqjqeprf7zcztnm9hvuldi9pj2/hdntl=exp=1734883436~acl=*%2Fcs5enc25mqjqeprf7zcztnm9hvuldi9pj2%2F*~data=hdntl~hmac=f4700ce3a745b3d44339fe80836b497018b19396883e89dd97b071cdec0abf64/chunklist_480.stream.m3u8
