@@ -1,10 +1,10 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="" tvg-name="VOLLEY FHD" tvg-logo="http://tugapt.com/picons/germany.png" group-title="KOREA",VOLLEY FULL HD
-https://livecloud.pstatic.net/sports/lip2_kr/anmssgpu0004/jkyfozoxmbijb0tkjakrmb74ii83smkf3f/hdntl=exp=1736363898~acl=*%2Fjkyfozoxmbijb0tkjakrmb74ii83smkf3f%2F*~data=hdntl~hmac=8b857459e156eeb539703dbbb8970f9c17851d4ce9d5f614135b1fe0141101b4/chunklist_720.stream.m3u8
+https://livecloud.pstatic.net/sports/lip2_kr/cnmssgpu0001/rqm10jmih5utua9s0hfcs1j7yrl31kergc/hdntl=exp=1736448443~acl=*%2Frqm10jmih5utua9s0hfcs1j7yrl31kergc%2F*~data=hdntl~hmac=705206b5db4411d6bef50965a68b14264b7c088ed7ae7b1acbfb9b87a0801cc4/chunklist_720.stream.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="VOLLEY HD" tvg-logo="" group-title="KOREA",VOLLEY HD
-https://livecloud.pstatic.net/sports/lip2_kr/anmssgpu0004/jkyfozoxmbijb0tkjakrmb74ii83smkf3f/hdntl=exp=1736363898~acl=*%2Fjkyfozoxmbijb0tkjakrmb74ii83smkf3f%2F*~data=hdntl~hmac=8b857459e156eeb539703dbbb8970f9c17851d4ce9d5f614135b1fe0141101b4/chunklist_480.stream.m3u8
+https://livecloud.pstatic.net/sports/lip2_kr/cnmssgpu0001/rqm10jmih5utua9s0hfcs1j7yrl31kergc/hdntl=exp=1736448443~acl=*%2Frqm10jmih5utua9s0hfcs1j7yrl31kergc%2F*~data=hdntl~hmac=705206b5db4411d6bef50965a68b14264b7c088ed7ae7b1acbfb9b87a0801cc4/chunklist_480.stream.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="VOLLEY HD" tvg-logo="" group-title="KOREA",360p HD
-https://livecloud.pstatic.net/sports/lip2_kr/anmssgpu0004/jkyfozoxmbijb0tkjakrmb74ii83smkf3f/hdntl=exp=1736363898~acl=*%2Fjkyfozoxmbijb0tkjakrmb74ii83smkf3f%2F*~data=hdntl~hmac=8b857459e156eeb539703dbbb8970f9c17851d4ce9d5f614135b1fe0141101b4/chunklist_480.stream.m3u8
+https://livecloud.pstatic.net/sports/lip2_kr/cnmssgpu0001/rqm10jmih5utua9s0hfcs1j7yrl31kergc/hdntl=exp=1736448188~acl=*%2Frqm10jmih5utua9s0hfcs1j7yrl31kergc%2F*~data=hdntl~hmac=35f0b706a01f715b52866eeccfb34439cc1dc72c55b33de916f807d9d0575d82/chunklist_480.stream.m3u8
