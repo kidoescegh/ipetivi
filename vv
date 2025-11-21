@@ -1,9 +1,8 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="" tvg-name="VOLLEY FHD" tvg-logo="https://radarjabar.disway.id/upload/c0d3266e00ef937ae2e21b95b65df6da.jpg" group-title="KOREA",VOLLEY FULL HD
-https://livecloud.pstatic.net/sports/lip2_kr/anmssgpu0004/uvn4rrjypsjnaiyqhh10mgxa8j1s2tiayh/720.stream/hdntl=exp=1763665536~acl=*%2Fuvn4rrjypsjnaiyqhh10mgxa8j1s2tiayh%2F*~data=hdntl~hmac=6606985e175d052bbf33661b5a1af74ed23a903f67181bc8ddff50c7ac73b378/chunklist.m3u8
+https://livecloud.pstatic.net/sports/lip2_kr/cnmssgpu0001/7abftiu8lqkdt5uxeukafnv8v2bpmdvscy/720.stream/hdntl=exp=1763750814~acl=*%2F7abftiu8lqkdt5uxeukafnv8v2bpmdvscy%2F*~data=hdntl~hmac=8e69e94d4d208c45c059c02ce6c0b981bdeb53cc0f8cde0df3972d7801a86484/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="VOLLEY HD" tvg-logo="https://radarjabar.disway.id/upload/c0d3266e00ef937ae2e21b95b65df6da.jpg" group-title="KOREA",VOLLEY HD
-https://livecloud.pstatic.net/sports/lip2_kr/anmssgpu0004/uvn4rrjypsjnaiyqhh10mgxa8j1s2tiayh/480.stream/hdntl=exp=1763665536~acl=*%2Fuvn4rrjypsjnaiyqhh10mgxa8j1s2tiayh%2F*~data=hdntl~hmac=6606985e175d052bbf33661b5a1af74ed23a903f67181bc8ddff50c7ac73b378/chunklist.m3u8
-
+https://livecloud.pstatic.net/sports/lip2_kr/cnmssgpu0001/7abftiu8lqkdt5uxeukafnv8v2bpmdvscy/480.stream/hdntl=exp=1763750814~acl=*%2F7abftiu8lqkdt5uxeukafnv8v2bpmdvscy%2F*~data=hdntl~hmac=8e69e94d4d208c45c059c02ce6c0b981bdeb53cc0f8cde0df3972d7801a86484/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="VOLLEY HD" tvg-logo="https://radarjabar.disway.id/upload/c0d3266e00ef937ae2e21b95b65df6da.jpg" group-title="KOREA",360p HD
-https://livecloud.pstatic.net/sports/lip2_kr/anmssgpu0004/uvn4rrjypsjnaiyqhh10mgxa8j1s2tiayh/480.stream/hdntl=exp=1763665536~acl=*%2Fuvn4rrjypsjnaiyqhh10mgxa8j1s2tiayh%2F*~data=hdntl~hmac=6606985e175d052bbf33661b5a1af74ed23a903f67181bc8ddff50c7ac73b378/chunklist.m3u8
+https://livecloud.pstatic.net/sports/lip2_kr/cnmssgpu0001/7abftiu8lqkdt5uxeukafnv8v2bpmdvscy/480.stream/hdntl=exp=1763750814~acl=*%2F7abftiu8lqkdt5uxeukafnv8v2bpmdvscy%2F*~data=hdntl~hmac=8e69e94d4d208c45c059c02ce6c0b981bdeb53cc0f8cde0df3972d7801a86484/chunklist.m3u8
